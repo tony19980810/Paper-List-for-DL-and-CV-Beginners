@@ -53,13 +53,58 @@ Vision Mamba: Efficient Visual Representation Learning with Bidirectional State 
 
 MambaOut: Do We Really Need Mamba for Vision? CVPR25
 
+Vision Transformers Need Registers. ICLR24
+
+Segment Anything. ICCV23
+
+## Local Feature Macth
+
+SFD2: Semantic-guided Feature Detection and Description. CVPR23
+
+DKM: Dense Kernelized Feature Matching for Geometry Estimation. CVPR23
+
+RoMa: Robust Dense Feature Matching. CVPR24.
+
+Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed. CVPR24
+
+EDM: Efficient Deep Feature Matching. ICCV25
+
+CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching. ICCV25
+
+JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba. CVPR25
+
+LoFTR: Detector-Free Local Feature Matching with Transformers. CVPR21
+
+## Visual Foundation Models
+
+VGGT: Visual Geometry Grounded Transformer. CVPR25
+
+DINOv2: Learning Robust Visual Features without Supervision. TMLR24
+
+DINOv3. Arxiv25
+
 ## Diffusion 
 Do Text-free Diffusion Models Learn Discriminative Visual Representations? ECCV24
 
 Diffusion Models and Representation Learning: A Survey. TPAMI23
+
+## Knowledge Distillation
+
+Improving Language Model Distillation through Hidden State Matching. ICLR25
+
+Rethinking Centered Kernel Alignment in Knowledge Distillation. IJCAI24
+
+Single teacher, multiple perspectives: Teacher knowledge augmentation for enhanced knowledge distillation. ICLR25
+
+
+## LLM
+
+Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free. Neurips25
 
 ## Others
 
 Attention Is All You Need. Neurips17
 
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces. COLM24.
+
+
