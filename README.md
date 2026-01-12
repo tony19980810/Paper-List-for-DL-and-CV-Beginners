@@ -13,6 +13,8 @@ FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video. CVP
 
 3D human pose estimation with spatial and temporal transformers. ICCV21
 
+PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model. AAAI25
+
 ## Multimodal
 
 Learning Transferable Visual Models From Natural Language Supervision. ICML21
