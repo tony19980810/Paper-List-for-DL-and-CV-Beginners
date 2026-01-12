@@ -1,6 +1,44 @@
 # Paper-List-for-DL-and-CV-Beginners
 In this repository, we share a curated collection of papers to help beginners get started with deep learning and computer vision
+
+## Graph Neural Network
+
+Semi-supervised classification with graph convolutional networks. ICLR17
+
+Graph attention networks. Arxiv17
+
+## Pose Estimation
+
+FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video. CVPR25
+
+3D human pose estimation with spatial and temporal transformers. ICCV21
+
+## Multimodal
+
+Learning Transferable Visual Models From Natural Language Supervision. ICML21
+
+## Visual Localization
+
+From Coarse to Fine: Robust Hierarchical Localization at Large Scale. CVPR19
+
+Map-Relative Pose Regression for Visual Re-Localization. CVPR24
+
+Map-free Visual Relocalization: Metric Pose Relative to a Single Image. ECCV22
+
+A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation. TIV24
+
+Long-term Visual Localization with Mobile Sensors. CVPR23
+
+## Panoramic Visual Localization
+
+LDL: Line Distance Functions for Panoramic Localization. ICCV23
+
+PICCOLO: Point Cloud-Centric Omnidirectional Localization. ICCV21
+
+Fully Geometric Panoramic Localization. CVPR24
+
 ## Visual Place Recognition
+
 BoQ: A Place is Worth a Bag of Learnable Queries. CVPR24 
 
 Deep Homography Estimation for Visual Place Recognition. AAAI24 
@@ -57,6 +95,8 @@ Vision Transformers Need Registers. ICLR24
 
 Segment Anything. ICCV23
 
+Deep residual learning for image recognition. CVPR16
+
 ## Local Feature Macth
 
 SFD2: Semantic-guided Feature Detection and Description. CVPR23
@@ -75,6 +115,12 @@ JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba. CVPR25
 
 LoFTR: Detector-Free Local Feature Matching with Transformers. CVPR21
 
+SuperGlue: Learning Feature Matching with Graph Neural Networks. CVPR20
+
+## Interpretability
+
+Grad-cam: Visual explanations from deep networks via gradient-based localization. ICCV17
+
 ## Visual Foundation Models
 
 VGGT: Visual Geometry Grounded Transformer. CVPR25
@@ -82,6 +128,12 @@ VGGT: Visual Geometry Grounded Transformer. CVPR25
 DINOv2: Learning Robust Visual Features without Supervision. TMLR24
 
 DINOv3. Arxiv25
+
+## Face Recognition
+
+FaceNet: A Unified Embedding for Face Recognition and Clustering. CVPR15
+
+ArcFace: Additive Angular Margin Loss for Deep Face Recognition. CVPR19
 
 ## Diffusion 
 Do Text-free Diffusion Models Learn Discriminative Visual Representations? ECCV24
@@ -95,7 +147,6 @@ Improving Language Model Distillation through Hidden State Matching. ICLR25
 Rethinking Centered Kernel Alignment in Knowledge Distillation. IJCAI24
 
 Single teacher, multiple perspectives: Teacher knowledge augmentation for enhanced knowledge distillation. ICLR25
-
 
 ## LLM
 
