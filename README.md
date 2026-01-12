@@ -58,7 +58,7 @@ Do Text-free Diffusion Models Learn Discriminative Visual Representations? ECCV2
 
 Diffusion Models and Representation Learning: A Survey. TPAMI23
 
-##Others
+## Others
 
 Attention Is All You Need. Neurips17
 
