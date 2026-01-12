@@ -9,7 +9,7 @@ Graph attention networks. Arxiv17
 
 ## Pose Estimation
 
-FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video. CVPR25
+FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video. CVPR25
 
 3D human pose estimation with spatial and temporal transformers. ICCV21
 
