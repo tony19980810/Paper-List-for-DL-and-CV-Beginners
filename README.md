@@ -160,4 +160,66 @@ Attention Is All You Need. Neurips17
 
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces. COLM24.
 
+# 学习视频
+
+本节主要包括深度学习学习视频和路线，主要包含各个深度学习UP主的讲解视频，感谢他们的付出。学习路线上建议先学习基础，通用的深度学习知识，再聚焦细分领域。
+
+##基础深度学习
+
+这部分主要参考UP主李沐的视频 [link](https://space.bilibili.com/1567748478/lists/358497?type=series)，其中重要部分如下：
+
+1.安装
+
+2.数据操作+预处理
+
+3.线性代数
+
+4.矩阵计算
+
+5.自动求导
+
+6.线性回归+基础优化算法
+
+7.Softmax回归+损失函数+图片分类数据集
+
+8.多层感知机
+
+9.模型选择+拟合问题
+
+10.权重衰退
+
+11.丢弃法
+
+12.数值稳定性+模型初始化
+
+13.pytorch神经网络基础
+
+13.卷积层
+
+14.卷积层的填充和步骤
+
+15.卷积层的多输入和多输出通道
+
+16.池化层
+
+17.AlexNet
+
+18.批量归一化
+
+19.ResNet 请结合UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/lists/244158?type=series)中关于ResNet的代码讲解一起学习
+
+20.数据增广
+
+21.微调
+
+22.全连接神经网络FCN
+
+23.Transformer (此处是NLP中的模型) 请结合UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/lists/244158?type=series)中关于自注意力和VIT的代码讲解一起学习
+
+## 3D视觉和视觉定位基础学习
+
+请学习鲁鹏老师的深入浅出SFM和SLAM核心算法系列 [link](https://www.bilibili.com/video/BV1DP41157dB/?spm_id_from=333.1387.favlist.content.click&vd_source=3792ab8209f08ad74ee4ed2e6d3c812d)
+
+
+
 
