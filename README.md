@@ -164,7 +164,7 @@ Mamba: Linear-Time Sequence Modeling with Selective State Spaces. COLM24.
 
 本节主要包括深度学习学习视频和路线，主要包含各个深度学习UP主的讲解视频，感谢他们的付出。学习路线上建议先学习基础，通用的深度学习知识，再聚焦细分领域。
 
-##基础深度学习
+## 基础深度学习
 
 这部分主要参考UP主李沐的视频 [link](https://space.bilibili.com/1567748478/lists/358497?type=series)，其中重要部分如下：
 
