@@ -66,21 +66,21 @@
 
 3.卷积神经网络基础补充
 
-4. ResNet网络结构，BN以及迁移学习详解
+4.ResNet网络结构，BN以及迁移学习详解
 
-5. 使用pytorch搭建ResNet并基于迁移学习训练
+5.使用pytorch搭建ResNet并基于迁移学习训练
 
-6. 使用pytorch查看中间层特征矩阵以及卷积核参数
+6.使用pytorch查看中间层特征矩阵以及卷积核参数
 
-7. Transformer中Self-Attention以及Multi-Head Attention详解
+7.Transformer中Self-Attention以及Multi-Head Attention详解
 
-8. Vision Transformer(vit)网络详解
+8.Vision Transformer(vit)网络详解
 
-9. 使用pytorch搭建Vision Transformer(vit)模型
+9.使用pytorch搭建Vision Transformer(vit)模型
 
-10. 膨胀卷积(Dilated convolution)详解
+10.膨胀卷积(Dilated convolution)详解
 
-11. Grad-CAM简介
+11.Grad-CAM简介
 
 ## 3D视觉和视觉定位基础学习
 
