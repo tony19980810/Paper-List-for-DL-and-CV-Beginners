@@ -58,7 +58,7 @@
 
 ## 代码实战学习
 
-这部分主要参考UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/lists/244158?type=series)，环境请使用pytorch，其中重要部分如下：
+这部分主要参考UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/upload/video)，环境请使用pytorch，其中重要部分如下：
 
 1.卷积网络基础
 
