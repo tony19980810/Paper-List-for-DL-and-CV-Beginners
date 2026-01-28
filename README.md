@@ -8,7 +8,7 @@
 
 这部分主要参考UP主李沐的视频 [link](https://space.bilibili.com/1567748478/lists/358497?type=series)，其中重要部分如下：
 
-1.安装
+1.安装(请使用pytorch)
 
 2.数据操作+预处理
 
@@ -55,6 +55,32 @@
 22.全连接神经网络FCN
 
 23.Transformer (此处是NLP中的模型) 请结合UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/lists/244158?type=series)中关于自注意力和VIT的代码讲解一起学习
+
+## 代码实战学习
+
+这部分主要参考UP霹雳吧啦Wz的视频 [link](https://space.bilibili.com/18161609/lists/244158?type=series)，环境请使用pytorch，其中重要部分如下：
+
+1.卷积网络基础
+
+2.AlexNet网络结构详解与花分类数据集下载
+
+3.卷积神经网络基础补充
+
+4. ResNet网络结构，BN以及迁移学习详解
+
+5. 使用pytorch搭建ResNet并基于迁移学习训练
+
+6. 使用pytorch查看中间层特征矩阵以及卷积核参数
+
+7. Transformer中Self-Attention以及Multi-Head Attention详解
+
+8. Vision Transformer(vit)网络详解
+
+9. 使用pytorch搭建Vision Transformer(vit)模型
+
+10. 膨胀卷积(Dilated convolution)详解
+
+11. Grad-CAM简介
 
 ## 3D视觉和视觉定位基础学习
 
