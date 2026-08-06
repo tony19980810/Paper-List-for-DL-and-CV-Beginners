@@ -132,6 +132,8 @@ Fully Geometric Panoramic Localization. CVPR24
 
 ## Visual Place Recognition
 
+EfficientVPR: Toward Efficient Visual Place Recognition via Scene-Aware Prompt Tuning and Adaptive Feature Enhancement. CVPR26
+
 BoQ: A Place is Worth a Bag of Learnable Queries. CVPR24 
 
 Deep Homography Estimation for Visual Place Recognition. AAAI24 
@@ -160,9 +162,11 @@ MeshVPR: Citywide Visual Place Recognition Using 3D Meshes. ECCV24
 
 Rethinking Visual Geo-localization for Large-Scale Applications. CVPR22
 
-AnyLoc: Towards Universal Visual Place Recognition. ICRA24
+AnyLoc: Towards Universal Visual Place Recognition. ICRA 24
  
 ## General Visual Tasks
+
+Mapping Networks. CVPR 26
 
 OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels. CVPR25
 
@@ -191,6 +195,10 @@ Segment Anything. ICCV23
 Deep residual learning for image recognition. CVPR16
 
 ## Local Feature Macth
+
+AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization. CVPR 26
+
+LoMa: Local Feature Matching Revisited. ECCV 26
 
 SFD2: Semantic-guided Feature Detection and Description. CVPR23
 
